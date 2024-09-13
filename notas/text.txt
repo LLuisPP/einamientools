@@ -1,0 +1,3 @@
+git checkout -b "nombre de la rama" --> crea una rama
+git branch --> Te dice en que rama estás
+git checkout --> cambia de rama
